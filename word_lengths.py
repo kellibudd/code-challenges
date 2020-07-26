@@ -33,6 +33,7 @@ def word_lengths(sentence):
 
     return word_count_dict
 
+
 # doctest
 if __name__ == "__main__":
     import doctest
